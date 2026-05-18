@@ -1,0 +1,7 @@
+[INFO] Going to Open New Account page
+[INFO] Selecting account type: SAVINGS
+[INFO] Selecting funding account: 13344
+[INFO] New account ID: 15009
+[INFO] New account created via UI. Captured ID: 15009
+[INFO] API Response for new account:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><account><id>15009</id><customerId>12212</customerId><type>SAVINGS</type><balance>100.00</balance></account>

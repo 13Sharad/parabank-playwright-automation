@@ -1,0 +1,2 @@
+[INFO] Response from the server:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><account><id>13344</id><customerId>12212</customerId><type>SAVINGS</type><balance>-368.90</balance></account>

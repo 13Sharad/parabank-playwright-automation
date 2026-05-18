@@ -1,0 +1,3 @@
+[INFO] Going to Register page
+[INFO] Filling registration form for user_ilprm1
+[INFO] Checking registration success message

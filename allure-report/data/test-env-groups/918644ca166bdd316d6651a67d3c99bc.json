@@ -1,0 +1,1 @@
+{"id":"918644ca166bdd316d6651a67d3c99bc","fullName":"API/customerAccount.spec.ts:21:8","name":"TC-12: Check that a wrong customer ID gives an error response","status":"passed","testResultsByEnv":{"default":"970c78b5db767c2e9f06db90a7e64043"}}

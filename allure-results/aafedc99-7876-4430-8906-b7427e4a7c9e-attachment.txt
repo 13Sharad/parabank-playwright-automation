@@ -1,0 +1,3 @@
+[INFO] Going to Open New Account page
+[INFO] Selecting account type: CHECKING
+[INFO] New CHECKING account ID: undefined

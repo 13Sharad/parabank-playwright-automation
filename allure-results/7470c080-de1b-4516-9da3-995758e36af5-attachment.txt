@@ -1,0 +1,4 @@
+[INFO] Going to Register page
+[INFO] Filling registration form for john
+[INFO] Going to Open New Account page
+[INFO] Selecting account type: SAVINGS

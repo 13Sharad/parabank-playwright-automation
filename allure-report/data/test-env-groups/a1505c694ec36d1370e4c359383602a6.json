@@ -1,0 +1,1 @@
+{"id":"a1505c694ec36d1370e4c359383602a6","fullName":"UI/register.spec.ts:74:7","name":"TC-08: Try to register with an existing username, then login and open a CHECKING account","status":"passed","testResultsByEnv":{"default":"0bc87f379644a640568b92a96038be29"}}

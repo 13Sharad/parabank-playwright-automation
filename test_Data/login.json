@@ -1,0 +1,47 @@
+{
+  "demoUser": {
+    "username": "john",
+    "password": "demo"
+  },
+
+  "validUser": {
+    "firstName": "Sharad",
+    "lastName": "Singh",
+    "address": "Khudirampur Road",
+    "city": "Nandigram",
+    "state": "West Bengal",
+    "zipCode": "721607",
+    "phone": "8809591890",
+    "ssn": "123456789",
+    "username": "sharad_qa_02",
+    "password": "SecurePassword@123"
+  },
+
+  "invalidLogin": {
+    "username": "invalid_user_99",
+    "password": "wrongPassword123",
+    "expectedError": "The username and password could not be verified."
+  },
+
+  "validationMessages": {
+    "firstName": "First name is required.",
+    "lastName": "Last name is required.",
+    "address": "Address is required.",
+    "city": "City is required.",
+    "state": "State is required.",
+    "zipCode": "Zip Code is required.",
+    "ssn": "Social Security Number is required.",
+    "username": "Username is required.",
+    "password": "Password is required.",
+    "passwordConfirmation": "Password confirmation is required."
+  },
+
+  "apiTestData": {
+    "validCustomerId": "12212",
+    "invalidCustomerId": "99999",
+    "validAccountId": "13344",
+    "invalidAccountId": "987654321",
+    "accountType": "1",
+    "accountTypeName": "SAVINGS"
+  }
+}

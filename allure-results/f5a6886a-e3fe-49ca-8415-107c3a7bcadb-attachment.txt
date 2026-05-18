@@ -1,0 +1,2 @@
+[INFO] Going to Register page
+[INFO] Checking registration success message
